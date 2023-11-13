@@ -17,7 +17,7 @@ Solutions for the challenges from https://codember.dev/ ver.2023
 
 | Challenge | Name                                      |                                    |
 | --------- | ----------------------------------------- | ---------------------------------- |
-| 1         | A spy is sending encrypted messages.      | [solution](./challenge01/index.js) |
+| 1         | A spy is sending encrypted messages.      | [solution](./challenge01/index.php) |
 
 
 ## Secrets 🤫
